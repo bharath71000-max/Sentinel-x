@@ -1,0 +1,6 @@
+{
+  "name": "SENTINEL-X | Border Surveillance System",
+  "description": "AI-Powered Border Observation & Monitoring System with real-time video analytics, threat detection, and tactical response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
